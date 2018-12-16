@@ -1,0 +1,16 @@
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\bin\Debug\EF_CRUD.exe.config
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\bin\Debug\EF_CRUD.exe
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\bin\Debug\EF_CRUD.pdb
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\bin\Debug\EntityFramework.dll
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\bin\Debug\EntityFramework.xml
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.csprojAssemblyReference.cache
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.Form1.resources
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.frmAddEditContact.resources
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.Properties.Resources.resources
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.csproj.GenerateResource.cache
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.csproj.CopyComplete
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.exe
+C:\Users\rodrigo.alves\source\repos\EF_CRUD\EF_CRUD\obj\Debug\EF_CRUD.pdb

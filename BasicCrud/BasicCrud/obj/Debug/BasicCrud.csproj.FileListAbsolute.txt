@@ -1,0 +1,10 @@
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\C#\BasicCrud\BasicCrud\obj\Debug\BasicCrud.csprojAssemblyReference.cache
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\C#\BasicCrud\BasicCrud\obj\Debug\BasicCrud.Properties.Resources.resources
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\C#\BasicCrud\BasicCrud\obj\Debug\BasicCrud.csproj.GenerateResource.cache
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\C#\BasicCrud\BasicCrud\obj\Debug\BasicCrud.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\C#\BasicCrud\BasicCrud\bin\Debug\BasicCrud.exe.config
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\C#\BasicCrud\BasicCrud\bin\Debug\BasicCrud.exe
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\C#\BasicCrud\BasicCrud\bin\Debug\BasicCrud.pdb
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\C#\BasicCrud\BasicCrud\obj\Debug\BasicCrud.exe
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\C#\BasicCrud\BasicCrud\obj\Debug\BasicCrud.pdb
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\C#\BasicCrud\BasicCrud\obj\Debug\BasicCrud.FrmTeste.resources

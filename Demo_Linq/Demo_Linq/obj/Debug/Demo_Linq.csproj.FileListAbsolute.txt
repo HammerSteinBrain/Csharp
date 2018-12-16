@@ -1,0 +1,7 @@
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\Demo_Linq\Demo_Linq\bin\Debug\Demo_Linq.exe.config
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\Demo_Linq\Demo_Linq\bin\Debug\Demo_Linq.exe
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\Demo_Linq\Demo_Linq\bin\Debug\Demo_Linq.pdb
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\Demo_Linq\Demo_Linq\obj\Debug\Demo_Linq.csprojAssemblyReference.cache
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\Demo_Linq\Demo_Linq\obj\Debug\Demo_Linq.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\Demo_Linq\Demo_Linq\obj\Debug\Demo_Linq.exe
+C:\Users\rodrigo.alves\Desktop\Meus Projetos\Demo_Linq\Demo_Linq\obj\Debug\Demo_Linq.pdb
